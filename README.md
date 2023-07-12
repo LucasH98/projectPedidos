@@ -4,6 +4,7 @@
 
 Tive a oportunidade de aplicar meus conhecimentos implementando o Modelo de dominio,estruturando a aplicação em camadas lógicas,
 também foi configurado e implementando o banco de mémoria H2.
+
 CRUD completo
 Tratamento de Exceções.
 
