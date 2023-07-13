@@ -7,8 +7,3 @@ também foi configurado e implementado o banco de mémoria H2.
 
 CRUD completo
 
-
-Tratamento de Exceções.
-
-
-https://www.udemy.com/course/java-curso-completo/
